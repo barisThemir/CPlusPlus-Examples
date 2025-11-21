@@ -15,9 +15,3 @@ Current projects:
 You can use any C++ compiler (GCC, Visual Studio, Dev-C++, etc.) to run the code on your computer.
 
 If you want to compile it via the terminal:
-
-```bash
-g++ filename.cpp -o application
-./application
-
-Translated with DeepL.com (free version)
